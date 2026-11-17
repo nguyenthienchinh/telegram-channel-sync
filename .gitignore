@@ -1,0 +1,7 @@
+*.session
+*.session-journal
+live_map.json
+login_state.json
+session_out.txt
+.env
+__pycache__/
